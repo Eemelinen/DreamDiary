@@ -26,3 +26,6 @@ I have a hobby of writing down my nightly dreams. So I decided to make a proper 
 - Git and Github
 - (Some good old) CSS && HMTL
 - SQLlite
+********************************************
+## Future improvements:
+When I some day have time I would like to create additional data page. There I would use the locations, dreamsign-keywords and other meta-data to create more useful graphs about what I dream about where and when.
