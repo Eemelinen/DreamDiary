@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react';
 import { Modal, View, Button, Text, StyleSheet, TextInput, ImageBackground } from 'react-native';
 

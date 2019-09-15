@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React, { Component } from 'react';
 import { StyleSheet, View, ImageBackground } from 'react-native';
 import DreamList from './components/DreamList/DreamList';

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react';
 import { View, StyleSheet, TouchableWithoutFeedback } from 'react-native';
 import { Container, Header, Content, Card, CardItem, Text, Body } from "native-base";
