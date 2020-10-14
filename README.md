@@ -1,6 +1,6 @@
 # Welcome to my Dream Diary app!
 
-I have a hobby of writing down my nightly dreams. So I decided to make a proper dream journal program for my ipad.
+I have a hobby of writing down my nightly dreams. So I decided to make a proper dream journal app for my ipad.
 ********************************************
 
 ### Below are some images of the app:
